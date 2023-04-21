@@ -1,5 +1,7 @@
 # SpeletajuTaisitajs
 
+![](https://pluspng.com/img-png/nba-logo-vector-png-nba-logo-png-2400.png)
+
 -[ ] 1. Pielietojot teksta ievades laukus (2.gab.) iespējams ievadīt apģērbjamā tēla vārdu un vecumu
 (šajā laukā iespējams ievadīt tikai skaitļus), pogas nospiešana nodrošina ievadīto vērtību 
 attēlošanu teksta laukā (Piemēram: „Supervaronis Oskars ir 19 gadus vecs!”) (2p)
